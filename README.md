@@ -1,6 +1,5 @@
 # VHDL Matrix Processing Core
 
-A University of Nottingham EEEE4123 coursework project by Hassan Alharbi, extending a supplied 4 × 4 matrix multiplier into a two-stage 16 × 16 signed matrix processor.
 
 **Archive status:** the preserved implementation computes **D = C × (A × B)**. The assignment requires **D = (A × B) × C**. These operations are generally different. This repository documents the submitted implementation and its known limitation; it does not claim full specification compliance.
 
