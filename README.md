@@ -59,14 +59,11 @@ These are reconstruction instructions, not a verified automated build. The MATLA
 
 ## Screenshots
 
-Add your own screenshots under `images/`, then uncomment the relevant Markdown line:
 
 <!-- ![RTL waveform](images/rtl-waveform.png) -->
 <!-- ![Synthesized schematic](images/schematic.png) -->
 <!-- ![Resource utilization](images/utilization.png) -->
 
 ## Credits and licensing
-
-This is coursework, not a claim of a novel matrix-multiplication algorithm. The design and testbench derive from the University of Nottingham EEEE4123 teaching reference for a 4 × 4 matrix multiplier. Original reference headers are preserved. The submitted extension adds larger matrices, a third input, an intermediate buffer, and a second calculation stage. The original submission used the name Hassan Aloufi.
 
 AMD/Xilinx owns its tools and vendor IP; their applicable terms remain in force. No blanket open-source license has been assigned to the mixed-provenance coursework. Attribution alone does not grant redistribution permission for the teaching reference. Confirm the course material's redistribution terms before publishing those derived files publicly.
